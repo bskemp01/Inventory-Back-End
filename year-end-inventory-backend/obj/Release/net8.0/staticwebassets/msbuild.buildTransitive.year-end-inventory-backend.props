@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\year-end-inventory-backend.props" />
+</Project>

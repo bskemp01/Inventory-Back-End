@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "t1FHgFAh9csm8KBH06GMnJ/CI7LldfaAznIROK87A8Q=",
+  "Source": "year-end-inventory-backend",
+  "BasePath": "_content/year-end-inventory-backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "year-end-inventory-backend\\wwwroot",
+      "Source": "year-end-inventory-backend",
+      "ContentRoot": "C:\\YearEnd Inventory App 2024\\BackEnd\\year-end-inventory-backend\\wwwroot\\",
+      "BasePath": "_content/year-end-inventory-backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

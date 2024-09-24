@@ -1,0 +1,437 @@
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.AssemblyReference.cache
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfoInputs.cache
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfo.cs
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CoreCompileInputs.cache
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\appsettings.Development.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\appsettings.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.exe
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.deps.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.runtimeconfig.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.pdb
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Azure.Core.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Azure.Identity.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.SqlServer.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Humanizer.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.CodeDom.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Convention.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Memory.Data.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.year-end-inventory-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.build.year-end-inventory-backend.props
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.year-end-inventory-backend.props
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.year-end-inventory-backend.props
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\scopedcss\bundle\year-end-inventory-backend.styles.css
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CopyComplete
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\refint\year-end-inventory-backend.dll
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.pdb
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.genruntimeconfig.cache
+C:\Users\b.kemp\Documents\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\ref\year-end-inventory-backend.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\appsettings.Development.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\appsettings.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.exe
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.deps.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.runtimeconfig.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.pdb
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Azure.Core.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Azure.Identity.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.SqlServer.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Humanizer.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.CodeDom.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Convention.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Memory.Data.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.AssemblyReference.cache
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfoInputs.cache
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfo.cs
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CoreCompileInputs.cache
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.year-end-inventory-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.build.year-end-inventory-backend.props
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.year-end-inventory-backend.props
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.year-end-inventory-backend.props
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\scopedcss\bundle\year-end-inventory-backend.styles.css
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CopyComplete
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\refint\year-end-inventory-backend.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.pdb
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.genruntimeconfig.cache
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\obj\Release\net8.0\ref\year-end-inventory-backend.dll
+C:\Users\bkemp3\Desktop\year-end-inventory-backend\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.staticwebassets.runtime.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\appsettings.Development.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\appsettings.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.staticwebassets.runtime.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.exe
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.deps.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.runtimeconfig.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\year-end-inventory-backend.pdb
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Azure.Core.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Azure.Identity.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.SqlServer.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\EntityFramework.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Humanizer.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.CodeDom.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Convention.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Drawing.Common.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Memory.Data.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Security.Permissions.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.AssemblyReference.cache
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfoInputs.cache
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.AssemblyInfo.cs
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CoreCompileInputs.cache
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.build.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.development.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.year-end-inventory-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.build.year-end-inventory-backend.props
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.year-end-inventory-backend.props
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.year-end-inventory-backend.props
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\staticwebassets.pack.json
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\scopedcss\bundle\year-end-inventory-backend.styles.css
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.csproj.CopyComplete
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\refint\year-end-inventory-backend.dll
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.pdb
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\year-end-inventory-backend.genruntimeconfig.cache
+C:\YearEnd Inventory App 2024\BackEnd\year-end-inventory-backend\obj\Release\net8.0\ref\year-end-inventory-backend.dll
